@@ -1,3 +1,6 @@
+$ pip install kociemba
+$ pip install RubikOptimal
+$ pip install RubikTwoPhase
 import kociemba as hk
 import optimal.solver as osv
 import twophase.solver as tsv
